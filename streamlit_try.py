@@ -1,6 +1,3 @@
-{
- "cells": [],
- "metadata": {},
- "nbformat": 4,
- "nbformat_minor": 5
-}
+import streamlit as st
+
+st.write("try.........")
